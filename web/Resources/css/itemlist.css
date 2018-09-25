@@ -1,0 +1,44 @@
+.imgs img{
+
+   width: 120px;
+
+
+
+
+}
+.imgs,.pr{
+float: left;
+    margin-right: 10px;
+    display: inline;
+}
+
+.lists{
+
+    margin-bottom:40px;
+    margin-top: 10px;
+    clear: left;
+    overflow: auto;
+}
+
+.nt{
+    margin: 20px;
+    clear: left;
+    visibility: hidden;
+}
+.pr{
+    width: 100px;
+    margin-right: 50%;
+}
+.well{
+    background-color: white !important;
+}
+.sp{
+    margin-right: 5%;
+}
+
+.hdr{
+    float: left;
+}
+.chkout{
+    float: right;
+}
